@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @arlindo-arnaldo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá, mundo! 👋
 
-<!---
-arlindo-arnaldo/arlindo-arnaldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou um entusiasta da programação web e desenvolvedor backend especializado em Laravel PHP. Estou sempre em busca de aprender algo novo e contribuir para a comunidade.
+
+## Sobre Mim
+
+- 🌱 Estou aprendendo e aprimorando minhas habilidades em Laravel, PHP, JavaScript e CSS.
+- 👯 Estou aberto a colaborar em projetos open source e iniciativas comunitárias.
+- 💬 Pergunte-me sobre Laravel, Git, PHP, JavaScript e CSS.
+- 📫 Como me encontrar: Seu Email
+- ⚡ Curiosidade: Adoro explorar novas tecnologias e compartilhar conhecimento com outros desenvolvedores.
+
+## Tecnologias e Ferramentas
+
+!Laravel
+!PHP
+!JavaScript
+!CSS
+!Git
+
+## Estatísticas do GitHub
+
+!Estatísticas do GitHub
+
+## Projetos Destacados
+
+- Ango Utils: Pacote para php com funcionalidades voltadas para o desenvolvimento web em Angola.
+
+## Conecte-se Comigo
+
+!LinkedIn
+!Twitter
+
+---
+
+Obrigado por visitar meu perfil! Vamos nos conectar e colaborar em projetos incríveis juntos. 🚀
