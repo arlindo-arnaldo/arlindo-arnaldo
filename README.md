@@ -7,7 +7,7 @@ Sou um entusiasta da programação web e desenvolvedor backend especializado em 
 - 🌱 Estou aprendendo e aprimorando minhas habilidades em Laravel, PHP, JavaScript e CSS.
 - 👯 Estou aberto a colaborar em projetos open source e iniciativas comunitárias.
 - 💬 Pergunte-me sobre Laravel, Git, PHP, JavaScript e CSS.
-- 📫 Como me encontrar: Seu Email
+- 📫 Como me encontrar: arlindoarnaldocassuende@gmail.com
 - ⚡ Curiosidade: Adoro explorar novas tecnologias e compartilhar conhecimento com outros desenvolvedores.
 
 ## Tecnologias e Ferramentas
