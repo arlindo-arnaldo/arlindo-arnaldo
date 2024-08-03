@@ -28,8 +28,7 @@ Sou um entusiasta da programação web e desenvolvedor backend especializado em 
 
 ## Conecte-se Comigo
 
-!LinkedIn
-!Twitter
+[!LinkedIn](https://linkedin.com/in/arlindo-arnaldo-cassuende)
 
 ---
 
