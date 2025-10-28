@@ -37,7 +37,7 @@ Pacote para PHP que oferece funcionalidades úteis e específicas para o desenvo
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ARLINDOARNADOCASSUENDE&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arlindo-arnaldo&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ARLINDOARNADOCASSUENDE&layout=compact&theme=vue)
 
