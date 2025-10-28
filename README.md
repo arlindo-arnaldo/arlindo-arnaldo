@@ -30,7 +30,7 @@ Sou um **Desenvolvedor Backend** especializado em **Laravel (PHP)** e um entusia
 
 ## 📦 Projeto em Destaque
 
-### **[Ango Utils](https://github.com/seu-usuario/Ango-Utils-Link-Aqui)**
+### **[Ango Utils](https://github.com/arlindo-arnaldo/angoutils)**
 Pacote para PHP que oferece funcionalidades úteis e específicas para o desenvolvimento web em Angola (Ex: validação de NIF, formatação de moeda local, etc.).
 
 <br>
@@ -39,7 +39,7 @@ Pacote para PHP que oferece funcionalidades úteis e específicas para o desenvo
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arlindo-arnaldo&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ARLINDOARNADOCASSUENDE&layout=compact&theme=vue)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=arlindo-arnaldo&layout=compact&theme=vue)
 
 <br>
 
